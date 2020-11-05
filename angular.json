@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "people-github"
+    }
+  },
+  "defaultProject": "people-github",
+  "cli": {
+    "analytics": false
+  }
 }
